@@ -10,6 +10,10 @@ Welcome to my GitHub profile! I am a passionate data analyst with a strong backg
 ![Static Badge](https://img.shields.io/badge/scikit--learn-gold?style=for-the-badge&logo=scikit-learn&labelColor=white)
 
 ![Static Badge](https://img.shields.io/badge/numpy-navy?style=for-the-badge&logo=numpy&labelColor=white)
+![Static Badge](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=TensorFlow&logoColor=gold&labelColor=white&color=gold)
+![Static Badge](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=TensorBoard&logoColor=gold&labelColor=gold&color=white)
+
+
 
 
 
