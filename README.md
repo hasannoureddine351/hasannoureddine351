@@ -4,13 +4,14 @@
 Welcome to my GitHub profile! I am a passionate data analyst with a strong background in computer science and a focus on data analysis and machine learning. I thrive on utilizing my skills to extract valuable insights from data and create data-driven solutions. 
 
 ![Static Badge](https://img.shields.io/badge/python-green?style=for-the-badge&logo=python&labelColor=white)
-![Static Badge](https://img.shields.io/badge/pandas-darkblue?style=for-the-badge&logo=PANDAS&labelColor=white)
+![Static Badge](https://img.shields.io/badge/pandas-darkblue?style=for-the-badge&logo=SQL&labelColor=white)
+![Static Badge](https://img.shields.io/badge/pandas-darkblue?style=for-the-badge&logo=Tableau&labelColor=white)
 
 ![Static Badge](https://img.shields.io/badge/scikit--learn-gold?style=for-the-badge&logo=scikit-learn&labelColor=white)
-![Static Badge](https://img.shields.io/badge/numpy-navy?style=for-the-badge&logo=numpy&labelColor=white)
-
 ![Static Badge](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=TensorFlow&logoColor=gold&labelColor=white&color=gold)
-![Static Badge](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=TensorBoard&logoColor=gold&labelColor=gold&color=white)
+
+
+
 
 
 
